@@ -61,7 +61,7 @@ Then open:
 - Score items by weighted popularity among similar customers.
 - Exclude items already purchased by the customer.
 
-## Internship Demo Checklist
+## Demo Checklist
 
 - Run the app
 - Upload the dataset
