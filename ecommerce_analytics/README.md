@@ -2,7 +2,7 @@
 
 This project is a Streamlit web app that lets you explore and model an **online retail** dataset using:
 
-- **RFM scoring** (Recency, Frequency, Monetary)..
+- **RFM scoring** (Recency, Frequency, Monetary)...
 - **Customer segmentation** with **K-Means**
 - **Item recommendations** based on customer similarity (implicit “purchased/not purchased” vectors)
 
